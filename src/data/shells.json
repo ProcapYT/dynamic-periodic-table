@@ -1,0 +1,592 @@
+{
+   "1": {
+      "name": "Hydrogen",
+      "shells": "1",
+      "group": 1
+   },
+   "2": {
+      "name": "Helium",
+      "shells": "2",
+      "group": 18
+   },
+   "3": {
+      "name": "Lithium",
+      "shells": "2, 1",
+      "group": 1
+   },
+   "4": {
+      "name": "Beryllium",
+      "shells": "2, 2",
+      "group": 2
+   },
+   "5": {
+      "name": "Boron",
+      "shells": "2, 3",
+      "group": 13
+   },
+   "6": {
+      "name": "Carbon",
+      "shells": "2, 4",
+      "group": 14
+   },
+   "7": {
+      "name": "Nitrogen",
+      "shells": "2, 5",
+      "group": 15
+   },
+   "8": {
+      "name": "Oxygen",
+      "shells": "2, 6",
+      "group": 16
+   },
+   "9": {
+      "name": "Fluorine",
+      "shells": "2, 7",
+      "group": 17
+   },
+   "10": {
+      "name": "Neon",
+      "shells": "2, 8",
+      "group": 18
+   },
+   "11": {
+      "name": "Sodium",
+      "shells": "2, 8, 1",
+      "group": 1
+   },
+   "12": {
+      "name": "Magnesium",
+      "shells": "2, 8, 2",
+      "group": 2
+   },
+   "13": {
+      "name": "Aluminium",
+      "shells": "2, 8, 3",
+      "group": 13
+   },
+   "14": {
+      "name": "Silicon",
+      "shells": "2, 8, 4",
+      "group": 14
+   },
+   "15": {
+      "name": "Phosphorus",
+      "shells": "2, 8, 5",
+      "group": 15
+   },
+   "16": {
+      "name": "Sulfur",
+      "shells": "2, 8, 6",
+      "group": 16
+   },
+   "17": {
+      "name": "Chlorine",
+      "shells": "2, 8, 7",
+      "group": 17
+   },
+   "18": {
+      "name": "Argon",
+      "shells": "2, 8, 8",
+      "group": 18
+   },
+   "19": {
+      "name": "Potassium",
+      "shells": "2, 8, 8, 1",
+      "group": 1
+   },
+   "20": {
+      "name": "Calcium",
+      "shells": "2, 8, 8, 2",
+      "group": 2
+   },
+   "21": {
+      "name": "Scandium",
+      "shells": "2, 8, 9, 2",
+      "group": 3
+   },
+   "22": {
+      "name": "Titanium",
+      "shells": "2, 8, 10, 2",
+      "group": 4
+   },
+   "23": {
+      "name": "Vanadium",
+      "shells": "2, 8, 11, 2",
+      "group": 5
+   },
+   "24": {
+      "name": "Chromium",
+      "shells": "2, 8, 13, 1",
+      "group": 6
+   },
+   "25": {
+      "name": "Manganese",
+      "shells": "2, 8, 13, 2",
+      "group": 7
+   },
+   "26": {
+      "name": "Iron",
+      "shells": "2, 8, 14, 2",
+      "group": 8
+   },
+   "27": {
+      "name": "Cobalt",
+      "shells": "2, 8, 15, 2",
+      "group": 9
+   },
+   "28": {
+      "name": "Nickel",
+      "shells": "2, 8, 16, 2",
+      "group": 10
+   },
+   "29": {
+      "name": "Copper",
+      "shells": "2, 8, 18, 1",
+      "group": 11
+   },
+   "30": {
+      "name": "Zinc",
+      "shells": "2, 8, 18, 2",
+      "group": 12
+   },
+   "31": {
+      "name": "Gallium",
+      "shells": "2, 8, 18, 3",
+      "group": 13
+   },
+   "32": {
+      "name": "Germanium",
+      "shells": "2, 8, 18, 4",
+      "group": 14
+   },
+   "33": {
+      "name": "Arsenic",
+      "shells": "2, 8, 18, 5",
+      "group": 15
+   },
+   "34": {
+      "name": "Selenium",
+      "shells": "2, 8, 18, 6",
+      "group": 16
+   },
+   "35": {
+      "name": "Bromine",
+      "shells": "2, 8, 18, 7",
+      "group": 17
+   },
+   "36": {
+      "name": "Krypton",
+      "shells": "2, 8, 18, 8",
+      "group": 18
+   },
+   "37": {
+      "name": "Rubidium",
+      "shells": "2, 8, 18, 8, 1",
+      "group": 1
+   },
+   "38": {
+      "name": "Strontium",
+      "shells": "2, 8, 18, 8, 2",
+      "group": 2
+   },
+   "39": {
+      "name": "Yttrium",
+      "shells": "2, 8, 18, 9, 2",
+      "group": 3
+   },
+   "40": {
+      "name": "Zirconium",
+      "shells": "2, 8, 18, 10, 2",
+      "group": 4
+   },
+   "41": {
+      "name": "Niobium",
+      "shells": "2, 8, 18, 12, 1",
+      "group": 5
+   },
+   "42": {
+      "name": "Molybdenum",
+      "shells": "2, 8, 18, 13, 1",
+      "group": 6
+   },
+   "43": {
+      "name": "Technetium",
+      "shells": "2, 8, 18, 13, 2",
+      "group": 7
+   },
+   "44": {
+      "name": "Ruthenium",
+      "shells": "2, 8, 18, 15, 1",
+      "group": 8
+   },
+   "45": {
+      "name": "Rhodium",
+      "shells": "2, 8, 18, 16, 1",
+      "group": 9
+   },
+   "46": {
+      "name": "Palladium",
+      "shells": "2, 8, 18, 18",
+      "group": 10
+   },
+   "47": {
+      "name": "Silver",
+      "shells": "2, 8, 18, 18, 1",
+      "group": 11
+   },
+   "48": {
+      "name": "Cadmium",
+      "shells": "2, 8, 18, 18, 2",
+      "group": 12
+   },
+   "49": {
+      "name": "Indium",
+      "shells": "2, 8, 18, 18, 3",
+      "group": 13
+   },
+   "50": {
+      "name": "Tin",
+      "shells": "2, 8, 18, 18, 4",
+      "group": 14
+   },
+   "51": {
+      "name": "Antimony",
+      "shells": "2, 8, 18, 18, 5",
+      "group": 15
+   },
+   "52": {
+      "name": "Tellurium",
+      "shells": "2, 8, 18, 18, 6",
+      "group": 16
+   },
+   "53": {
+      "name": "Iodine",
+      "shells": "2, 8, 18, 18, 7",
+      "group": 17
+   },
+   "54": {
+      "name": "Xenon",
+      "shells": "2, 8, 18, 18, 8",
+      "group": 18
+   },
+   "55": {
+      "name": "Caesium",
+      "shells": "2, 8, 18, 18, 8, 1",
+      "group": 1
+   },
+   "56": {
+      "name": "Barium",
+      "shells": "2, 8, 18, 18, 8, 2",
+      "group": 2
+   },
+   "57": {
+      "name": "Lanthanum",
+      "shells": "2, 8, 18, 18, 9, 2",
+      "group": null
+   },
+   "58": {
+      "name": "Cerium",
+      "shells": "2, 8, 18, 19, 9, 2",
+      "group": null
+   },
+   "59": {
+      "name": "Praseodymium",
+      "shells": "2, 8, 18, 21, 8, 2",
+      "group": null
+   },
+   "60": {
+      "name": "Neodymium",
+      "shells": "2, 8, 18, 22, 8, 2",
+      "group": null
+   },
+   "61": {
+      "name": "Promethium",
+      "shells": "2, 8, 18, 23, 8, 2",
+      "group": null
+   },
+   "62": {
+      "name": "Samarium",
+      "shells": "2, 8, 18, 24, 8, 2",
+      "group": null
+   },
+   "63": {
+      "name": "Europium",
+      "shells": "2, 8, 18, 25, 8, 2",
+      "group": null
+   },
+   "64": {
+      "name": "Gadolinium",
+      "shells": "2, 8, 18, 25, 9, 2",
+      "group": null
+   },
+   "65": {
+      "name": "Terbium",
+      "shells": "2, 8, 18, 27, 8, 2",
+      "group": null
+   },
+   "66": {
+      "name": "Dysprosium",
+      "shells": "2, 8, 18, 28, 8, 2",
+      "group": null
+   },
+   "67": {
+      "name": "Holmium",
+      "shells": "2, 8, 18, 29, 8, 2",
+      "group": null
+   },
+   "68": {
+      "name": "Erbium",
+      "shells": "2, 8, 18, 30, 8, 2",
+      "group": null
+   },
+   "69": {
+      "name": "Thulium",
+      "shells": "2, 8, 18, 31, 8, 2",
+      "group": null
+   },
+   "70": {
+      "name": "Ytterbium",
+      "shells": "2, 8, 18, 32, 8, 2",
+      "group": null
+   },
+   "71": {
+      "name": "Lutetium",
+      "shells": "2, 8, 18, 32, 9, 2",
+      "group": 3
+   },
+   "72": {
+      "name": "Hafnium",
+      "shells": "2, 8, 18, 32, 10, 2",
+      "group": 4
+   },
+   "73": {
+      "name": "Tantalum",
+      "shells": "2, 8, 18, 32, 11, 2",
+      "group": 5
+   },
+   "74": {
+      "name": "Tungsten",
+      "shells": "2, 8, 18, 32, 12, 2",
+      "group": 6
+   },
+   "75": {
+      "name": "Rhenium",
+      "shells": "2, 8, 18, 32, 13, 2",
+      "group": 7
+   },
+   "76": {
+      "name": "Osmium",
+      "shells": "2, 8, 18, 32, 14, 2",
+      "group": 8
+   },
+   "77": {
+      "name": "Iridium",
+      "shells": "2, 8, 18, 32, 15, 2",
+      "group": 9
+   },
+   "78": {
+      "name": "Platinum",
+      "shells": "2, 8, 18, 32, 17, 1",
+      "group": 10
+   },
+   "79": {
+      "name": "Gold",
+      "shells": "2, 8, 18, 32, 18, 1",
+      "group": 11
+   },
+   "80": {
+      "name": "Mercury",
+      "shells": "2, 8, 18, 32, 18, 2",
+      "group": 12
+   },
+   "81": {
+      "name": "Thallium",
+      "shells": "2, 8, 18, 32, 18, 3",
+      "group": 13
+   },
+   "82": {
+      "name": "Lead",
+      "shells": "2, 8, 18, 32, 18, 4",
+      "group": 14
+   },
+   "83": {
+      "name": "Bismuth",
+      "shells": "2, 8, 18, 32, 18, 5",
+      "group": 15
+   },
+   "84": {
+      "name": "Polonium",
+      "shells": "2, 8, 18, 32, 18, 6",
+      "group": 16
+   },
+   "85": {
+      "name": "Astatine",
+      "shells": "2, 8, 18, 32, 18, 7",
+      "group": 17
+   },
+   "86": {
+      "name": "Radon",
+      "shells": "2, 8, 18, 32, 18, 8",
+      "group": 18
+   },
+   "87": {
+      "name": "Francium",
+      "shells": "2, 8, 18, 32, 18, 8, 1",
+      "group": 1
+   },
+   "88": {
+      "name": "Radium",
+      "shells": "2, 8, 18, 32, 18, 8, 2",
+      "group": 2
+   },
+   "89": {
+      "name": "Actinium",
+      "shells": "2, 8, 18, 32, 18, 9, 2",
+      "group": null
+   },
+   "90": {
+      "name": "Thorium",
+      "shells": "2, 8, 18, 32, 18, 10, 2",
+      "group": null
+   },
+   "91": {
+      "name": "Protactinium",
+      "shells": "2, 8, 18, 32, 20, 9, 2",
+      "group": null
+   },
+   "92": {
+      "name": "Uranium",
+      "shells": "2, 8, 18, 32, 21, 9, 2",
+      "group": null
+   },
+   "93": {
+      "name": "Neptunium",
+      "shells": "2, 8, 18, 32, 22, 9, 2",
+      "group": null
+   },
+   "94": {
+      "name": "Plutonium",
+      "shells": "2, 8, 18, 32, 24, 8, 2",
+      "group": null
+   },
+   "95": {
+      "name": "Americium",
+      "shells": "2, 8, 18, 32, 25, 8, 2",
+      "group": null
+   },
+   "96": {
+      "name": "Curium",
+      "shells": "2, 8, 18, 32, 25, 9, 2",
+      "group": null
+   },
+   "97": {
+      "name": "Berkelium",
+      "shells": "2, 8, 18, 32, 27, 8, 2",
+      "group": null
+   },
+   "98": {
+      "name": "Californium",
+      "shells": "2, 8, 18, 32, 28, 8, 2",
+      "group": null
+   },
+   "99": {
+      "name": "Einsteinium",
+      "shells": "2, 8, 18, 32, 29, 8, 2",
+      "group": null
+   },
+   "100": {
+      "name": "Fermium",
+      "shells": "2, 8, 18, 32, 30, 8, 2",
+      "group": null
+   },
+   "101": {
+      "name": "Mendelevium",
+      "shells": "2, 8, 18, 32, 31, 8, 2",
+      "group": null
+   },
+   "102": {
+      "name": "Nobelium",
+      "shells": "2, 8, 18, 32, 32, 8, 2",
+      "group": null
+   },
+   "103": {
+      "name": "Lawrencium",
+      "shells": "2, 8, 18, 32, 32, 8, 3",
+      "group": 3
+   },
+   "104": {
+      "name": "Rutherfordium",
+      "shells": "2, 8, 18, 32, 32, 10, 2",
+      "group": 4
+   },
+   "105": {
+      "name": "Dubnium",
+      "shells": "2, 8, 18, 32, 32, 11, 2",
+      "group": 5
+   },
+   "106": {
+      "name": "Seaborgium",
+      "shells": "2, 8, 18, 32, 32, 12, 2",
+      "group": 6
+   },
+   "107": {
+      "name": "Bohrium",
+      "shells": "2, 8, 18, 32, 32, 13, 2",
+      "group": 7
+   },
+   "108": {
+      "name": "Hassium",
+      "shells": "2, 8, 18, 32, 32, 14, 2",
+      "group": 8
+   },
+   "109": {
+      "name": "Meitnerium",
+      "shells": "2, 8, 18, 32, 32, 15, 2",
+      "group": 9
+   },
+   "110": {
+      "name": "Darmstadtium",
+      "shells": "2, 8, 18, 32, 32, 16, 2",
+      "group": 10
+   },
+   "111": {
+      "name": "Roentgenium",
+      "shells": "2, 8, 18, 32, 32, 17, 2",
+      "group": 11
+   },
+   "112": {
+      "name": "Copernicium",
+      "shells": "2, 8, 18, 32, 32, 18, 2",
+      "group": 12
+   },
+   "113": {
+      "name": "Nihonium",
+      "shells": "2, 8, 18, 32, 32, 18, 3",
+      "group": 13
+   },
+   "114": {
+      "name": "Flerovium",
+      "shells": "2, 8, 18, 32, 32, 18, 4",
+      "group": 14
+   },
+   "115": {
+      "name": "Moscovium",
+      "shells": "2, 8, 18, 32, 32, 18, 5",
+      "group": 15
+   },
+   "116": {
+      "name": "Livermorium",
+      "shells": "2, 8, 18, 32, 32, 18, 6",
+      "group": 16
+   },
+   "117": {
+      "name": "Tennessine",
+      "shells": "2, 8, 18, 32, 32, 18, 7",
+      "group": 17
+   },
+   "118": {
+      "name": "Oganesson",
+      "shells": "2, 8, 18, 32, 32, 18, 8",
+      "group": 18
+   }
+}

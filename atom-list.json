@@ -1,0 +1,828 @@
+{
+  "hidrogeno": {
+    "nombre": "Hidrógeno",
+    "numero": 1,
+    "color": "#FFFFFF",
+    "alias": ["H"],
+    "pesoAtomico": 1.008
+  },
+  "helio": {
+    "nombre": "Helio",
+    "numero": 2,
+    "color": "#D9FFFF",
+    "alias": ["He"],
+    "pesoAtomico": 4.0026
+  },
+  "litio": {
+    "nombre": "Litio",
+    "numero": 3,
+    "color": "#CC80FF",
+    "alias": ["Li"],
+    "pesoAtomico": 6.94
+  },
+  "berilio": {
+    "nombre": "Berilio",
+    "numero": 4,
+    "color": "#C2FF00",
+    "alias": ["Be"],
+    "pesoAtomico": 9.0122
+  },
+  "boro": {
+    "nombre": "Boro",
+    "numero": 5,
+    "color": "#FFB5B5",
+    "alias": ["B"],
+    "pesoAtomico": 10.81
+  },
+  "carbono": {
+    "nombre": "Carbono",
+    "numero": 6,
+    "color": "#000000",
+    "alias": ["C"],
+    "pesoAtomico": 12.011
+  },
+  "nitrogeno": {
+    "nombre": "Nitrógeno",
+    "numero": 7,
+    "color": "#80A0FF",
+    "alias": ["N"],
+    "pesoAtomico": 14.007
+  },
+  "oxigeno": {
+    "nombre": "Oxígeno",
+    "numero": 8,
+    "color": "#FF0D0D",
+    "alias": ["O"],
+    "pesoAtomico": 15.999
+  },
+  "fluor": {
+    "nombre": "Flúor",
+    "numero": 9,
+    "color": "#9EBA9E",
+    "alias": ["F"],
+    "pesoAtomico": 18.998
+  },
+  "neon": {
+    "nombre": "Neón",
+    "numero": 10,
+    "color": "#B3E3F5",
+    "alias": ["Ne"],
+    "pesoAtomico": 20.18
+  },
+  "sodio": {
+    "nombre": "Sodio",
+    "numero": 11,
+    "color": "#AB5CF2",
+    "alias": ["Na"],
+    "pesoAtomico": 22.99
+  },
+  "magnesio": {
+    "nombre": "Magnesio",
+    "numero": 12,
+    "color": "#8AFF00",
+    "alias": ["Mg"],
+    "pesoAtomico": 24.305
+  },
+  "aluminio": {
+    "nombre": "Aluminio",
+    "numero": 13,
+    "color": "#BFA6A6",
+    "alias": ["Al"],
+    "pesoAtomico": 26.982
+  },
+  "silicio": {
+    "nombre": "Silicio",
+    "numero": 14,
+    "color": "#F0C8A0",
+    "alias": ["Si"],
+    "pesoAtomico": 28.085
+  },
+  "fosforo": {
+    "nombre": "Fósforo",
+    "numero": 15,
+    "color": "#FF8000",
+    "alias": ["P"],
+    "pesoAtomico": 30.974
+  },
+  "azufre": {
+    "nombre": "Azufre",
+    "numero": 16,
+    "color": "#FFFF80",
+    "alias": ["S"],
+    "pesoAtomico": 32.06
+  },
+  "cloro": {
+    "nombre": "Cloro",
+    "numero": 17,
+    "color": "#00FF00",
+    "alias": ["Cl"],
+    "pesoAtomico": 35.453
+  },
+  "argon": {
+    "nombre": "Argón",
+    "numero": 18,
+    "color": "#80D1E3",
+    "alias": ["Ar"],
+    "pesoAtomico": 39.948
+  },
+  "potasio": {
+    "nombre": "Potasio",
+    "numero": 19,
+    "color": "#8F40FF",
+    "alias": ["K"],
+    "pesoAtomico": 39.098
+  },
+  "calcio": {
+    "nombre": "Calcio",
+    "numero": 20,
+    "color": "#3DFF00",
+    "alias": ["Ca"],
+    "pesoAtomico": 40.078
+  },
+  "escandio": {
+    "nombre": "Escandio",
+    "numero": 21,
+    "color": "#E6E6E6",
+    "alias": ["Sc"],
+    "pesoAtomico": 44.956
+  },
+  "titanio": {
+    "nombre": "Titanio",
+    "numero": 22,
+    "color": "#BFC2C7",
+    "alias": ["Ti"],
+    "pesoAtomico": 47.867
+  },
+  "vanadio": {
+    "nombre": "Vanadio",
+    "numero": 23,
+    "color": "#A6A6AB",
+    "alias": ["V"],
+    "pesoAtomico": 50.942
+  },
+  "cromo": {
+    "nombre": "Cromo",
+    "numero": 24,
+    "color": "#8A99C7",
+    "alias": ["Cr"],
+    "pesoAtomico": 51.996
+  },
+  "manganeso": {
+    "nombre": "Manganeso",
+    "numero": 25,
+    "color": "#9C7AC7",
+    "alias": ["Mn"],
+    "pesoAtomico": 54.938
+  },
+  "hierro": {
+    "nombre": "Hierro",
+    "numero": 26,
+    "color": "#E06633",
+    "alias": ["Fe"],
+    "pesoAtomico": 55.845
+  },
+  "cobalto": {
+    "nombre": "Cobalto",
+    "numero": 27,
+    "color": "#F090A0",
+    "alias": ["Co"],
+    "pesoAtomico": 58.933
+  },
+  "niquel": {
+    "nombre": "Níquel",
+    "numero": 28,
+    "color": "#50D050",
+    "alias": ["Ni"],
+    "pesoAtomico": 58.693
+  },
+  "cobre": {
+    "nombre": "Cobre",
+    "numero": 29,
+    "color": "#C88033",
+    "alias": ["Cu"],
+    "pesoAtomico": 63.546
+  },
+  "zinc": {
+    "nombre": "Zinc",
+    "numero": 30,
+    "color": "#7D80B0",
+    "alias": ["Zn"],
+    "pesoAtomico": 65.38
+  },
+  "galio": {
+    "nombre": "Galio",
+    "numero": 31,
+    "color": "#C28F8F",
+    "alias": ["Ga"],
+    "pesoAtomico": 69.723
+  },
+  "germanio": {
+    "nombre": "Germanio",
+    "numero": 32,
+    "color": "#668F8F",
+    "alias": ["Ge"],
+    "pesoAtomico": 72.63
+  },
+  "arsenico": {
+    "nombre": "Arsénico",
+    "numero": 33,
+    "color": "#BD80E3",
+    "alias": ["As"],
+    "pesoAtomico": 74.922
+  },
+  "selenio": {
+    "nombre": "Selenio",
+    "numero": 34,
+    "color": "#FFA100",
+    "alias": ["Se"],
+    "pesoAtomico": 78.971
+  },
+  "bromo": {
+    "nombre": "Bromo",
+    "numero": 35,
+    "color": "#A62929",
+    "alias": ["Br"],
+    "pesoAtomico": 79.904
+  },
+  "kripton": {
+    "nombre": "Kriptón",
+    "numero": 36,
+    "color": "#5CB8D2",
+    "alias": ["Kr"],
+    "pesoAtomico": 83.798
+  },
+  "rubidio": {
+    "nombre": "Rubidio",
+    "numero": 37,
+    "color": "#702EB0",
+    "alias": ["Rb"],
+    "pesoAtomico": 85.468
+  },
+  "estroncio": {
+    "nombre": "Estroncio",
+    "numero": 38,
+    "color": "#00FF00",
+    "alias": ["Sr"],
+    "pesoAtomico": 87.62
+  },
+  "itrio": {
+    "nombre": "Itrio",
+    "numero": 39,
+    "color": "#94FFFF",
+    "alias": ["Y"],
+    "pesoAtomico": 88.906
+  },
+  "circonio": {
+    "nombre": "Circonio",
+    "numero": 40,
+    "color": "#94E0E0",
+    "alias": ["Zr"],
+    "pesoAtomico": 91.224
+  },
+  "niobio": {
+    "nombre": "Niobio",
+    "numero": 41,
+    "color": "#73C2C9",
+    "alias": ["Nb"],
+    "pesoAtomico": 92.906
+  },
+  "molibdeno": {
+    "nombre": "Molibdeno",
+    "numero": 42,
+    "color": "#54B5B5",
+    "alias": ["Mo"],
+    "pesoAtomico": 95.95
+  },
+  "tecnecio": {
+    "nombre": "Tecnecio",
+    "numero": 43,
+    "color": "#3B9E9E",
+    "alias": ["Tc"],
+    "pesoAtomico": 98.0
+  },
+  "rutenio": {
+    "nombre": "Rutenio",
+    "numero": 44,
+    "color": "#248F8F",
+    "alias": ["Ru"],
+    "pesoAtomico": 101.07
+  },
+  "rodio": {
+    "nombre": "Rodio",
+    "numero": 45,
+    "color": "#0A7D8C",
+    "alias": ["Rh"],
+    "pesoAtomico": 102.906
+  },
+  "paladio": {
+    "nombre": "Paladio",
+    "numero": 46,
+    "color": "#006985",
+    "alias": ["Pd"],
+    "pesoAtomico": 106.42
+  },
+  "plata": {
+    "nombre": "Plata",
+    "numero": 47,
+    "color": "#C0C0C0",
+    "alias": ["Ag"],
+    "pesoAtomico": 107.868
+  },
+  "cadmio": {
+    "nombre": "Cadmio",
+    "numero": 48,
+    "color": "#FFD98F",
+    "alias": ["Cd"],
+    "pesoAtomico": 112.414
+  },
+  "indio": {
+    "nombre": "Indio",
+    "numero": 49,
+    "color": "#A67573",
+    "alias": ["In"],
+    "pesoAtomico": 114.818
+  },
+  "estaño": {
+    "nombre": "Estaño",
+    "numero": 50,
+    "color": "#668080",
+    "alias": ["Sn"],
+    "pesoAtomico": 118.71
+  },
+  "antimonio": {
+    "nombre": "Antimonio",
+    "numero": 51,
+    "color": "#9E63B5",
+    "alias": ["Sb"],
+    "pesoAtomico": 121.76
+  },
+  "telurio": {
+    "nombre": "Telurio",
+    "numero": 52,
+    "color": "#D47A00",
+    "alias": ["Te"],
+    "pesoAtomico": 127.6
+  },
+  "yodo": {
+    "nombre": "Yodo",
+    "numero": 53,
+    "color": "#940094",
+    "alias": ["I"],
+    "pesoAtomico": 126.904
+  },
+  "xenon": {
+    "nombre": "Xenón",
+    "numero": 54,
+    "color": "#429EB0",
+    "alias": ["Xe"],
+    "pesoAtomico": 131.293
+  },
+  "cesio": {
+    "nombre": "Cesio",
+    "numero": 55,
+    "color": "#57178F",
+    "alias": ["Cs"],
+    "pesoAtomico": 132.905
+  },
+  "bario": {
+    "nombre": "Bario",
+    "numero": 56,
+    "color": "#00C900",
+    "alias": ["Ba"],
+    "pesoAtomico": 137.327
+  },
+  "lantano": {
+    "nombre": "Lantano",
+    "numero": 57,
+    "color": "#70D4FF",
+    "alias": ["La"],
+    "pesoAtomico": 138.905
+  },
+  "cerio": {
+    "nombre": "Cerio",
+    "numero": 58,
+    "color": "#FFFFC7",
+    "alias": ["Ce"],
+    "pesoAtomico": 140.116
+  },
+  "praseodimio": {
+    "nombre": "Praseodimio",
+    "numero": 59,
+    "color": "#D9FFC7",
+    "alias": ["Pr"],
+    "pesoAtomico": 140.907
+  },
+  "neodimio": {
+    "nombre": "Neodimio",
+    "numero": 60,
+    "color": "#C7FFC7",
+    "alias": ["Nd"],
+    "pesoAtomico": 144.242
+  },
+  "prometio": {
+    "nombre": "Prometio",
+    "numero": 61,
+    "color": "#A3FFC7",
+    "alias": ["Pm"],
+    "pesoAtomico": 145
+  },
+  "samario": {
+    "nombre": "Samario",
+    "numero": 62,
+    "color": "#8FFFC7",
+    "alias": ["Sm"],
+    "pesoAtomico": 150.36
+  },
+  "europio": {
+    "nombre": "Europio",
+    "numero": 63,
+    "color": "#61FFC7",
+    "alias": ["Eu"],
+    "pesoAtomico": 151.966
+  },
+  "gadolinio": {
+    "nombre": "Gadolinio",
+    "numero": 64,
+    "color": "#45FFC7",
+    "alias": ["Gd"],
+    "pesoAtomico": 157.25
+  },
+  "terbio": {
+    "nombre": "Terbio",
+    "numero": 65,
+    "color": "#30FFC7",
+    "alias": ["Tb"],
+    "pesoAtomico": 158.925
+  },
+  "disprosio": {
+    "nombre": "Disprosio",
+    "numero": 66,
+    "color": "#1FFFC7",
+    "alias": ["Dy"],
+    "pesoAtomico": 162.5
+  },
+  "holmio": {
+    "nombre": "Holmio",
+    "numero": 67,
+    "color": "#00FF9C",
+    "alias": ["Ho"],
+    "pesoAtomico": 164.93
+  },
+  "erbio": {
+    "nombre": "Erbio",
+    "numero": 68,
+    "color": "#00D452",
+    "alias": ["Er"],
+    "pesoAtomico": 167.259
+  },
+  "tulio": {
+    "nombre": "Tulio",
+    "numero": 69,
+    "color": "#00BF38",
+    "alias": ["Tm"],
+    "pesoAtomico": 168.934
+  },
+  "iterbio": {
+    "nombre": "Iterbio",
+    "numero": 70,
+    "color": "#00AB24",
+    "alias": ["Yb"],
+    "pesoAtomico": 173.045
+  },
+  "lutecio": {
+    "nombre": "Lutecio",
+    "numero": 71,
+    "color": "#00A1EB",
+    "alias": ["Lu"],
+    "pesoAtomico": 174.966
+  },
+  "hafnio": {
+    "nombre": "Hafnio",
+    "numero": 72,
+    "color": "#4DC2FF",
+    "alias": ["Hf"],
+    "pesoAtomico": 178.49
+  },
+  "tantalo": {
+    "nombre": "Tantalo",
+    "numero": 73,
+    "color": "#4DA6FF",
+    "alias": ["Ta"],
+    "pesoAtomico": 180.948
+  },
+  "tungsteno": {
+    "nombre": "Tungsteno",
+    "numero": 74,
+    "color": "#2194D6",
+    "alias": ["W"],
+    "pesoAtomico": 183.84
+  },
+  "renio": {
+    "nombre": "Renio",
+    "numero": 75,
+    "color": "#267DAB",
+    "alias": ["Re"],
+    "pesoAtomico": 186.207
+  },
+  "osmio": {
+    "nombre": "Osmio",
+    "numero": 76,
+    "color": "#266696",
+    "alias": ["Os"],
+    "pesoAtomico": 190.23
+  },
+  "iridio": {
+    "nombre": "Iridio",
+    "numero": 77,
+    "color": "#175487",
+    "alias": ["Ir"],
+    "pesoAtomico": 192.217
+  },
+  "platino": {
+    "nombre": "Platino",
+    "numero": 78,
+    "color": "#D0D0E0",
+    "alias": ["Pt"],
+    "pesoAtomico": 195.084
+  },
+  "oro": {
+    "nombre": "Oro",
+    "numero": 79,
+    "color": "#FFD123",
+    "alias": ["Au"],
+    "pesoAtomico": 196.967
+  },
+  "mercurio": {
+    "nombre": "Mercurio",
+    "numero": 80,
+    "color": "#B8B8D0",
+    "alias": ["Hg"],
+    "pesoAtomico": 200.592
+  },
+  "talio": {
+    "nombre": "Talio",
+    "numero": 81,
+    "color": "#A6544D",
+    "alias": ["Tl"],
+    "pesoAtomico": 204.38
+  },
+  "plomo": {
+    "nombre": "Plomo",
+    "numero": 82,
+    "color": "#575961",
+    "alias": ["Pb"],
+    "pesoAtomico": 207.2
+  },
+  "bismuto": {
+    "nombre": "Bismuto",
+    "numero": 83,
+    "color": "#9E4FB5",
+    "alias": ["Bi"],
+    "pesoAtomico": 208.98
+  },
+  "polonio": {
+    "nombre": "Polonio",
+    "numero": 84,
+    "color": "#AB5C00",
+    "alias": ["Po"],
+    "pesoAtomico": 209
+  },
+  "astato": {
+    "nombre": "Astato",
+    "numero": 85,
+    "color": "#A61F8F",
+    "alias": ["At"],
+    "pesoAtomico": 210
+  },
+  "radon": {
+    "nombre": "Radón",
+    "numero": 86,
+    "color": "#008F8F",
+    "alias": ["Rn"],
+    "pesoAtomico": 222
+  },
+  "francio": {
+    "nombre": "Francio",
+    "numero": 87,
+    "color": "#420066",
+    "alias": ["Fr"],
+    "pesoAtomico": 223
+  },
+  "radio": {
+    "nombre": "Radio",
+    "numero": 88,
+    "color": "#007D00",
+    "alias": ["Ra"],
+    "pesoAtomico": 226
+  },
+  "actinio": {
+    "nombre": "Actinio",
+    "numero": 89,
+    "color": "#70ABFA",
+    "alias": ["Ac"],
+    "pesoAtomico": 227
+  },
+  "torio": {
+    "nombre": "Torio",
+    "numero": 90,
+    "color": "#91AFFF",
+    "alias": ["Th"],
+    "pesoAtomico": 232.038
+  },
+  "protactinio": {
+    "nombre": "Protactinio",
+    "numero": 91,
+    "color": "#A1FFFA",
+    "alias": ["Pa"],
+    "pesoAtomico": 231.036
+  },
+  "uranio": {
+    "nombre": "Uranio",
+    "numero": 92,
+    "color": "#008FC7",
+    "alias": ["U"],
+    "pesoAtomico": 238.029
+  },
+  "neptunio": {
+    "nombre": "Neptunio",
+    "numero": 93,
+    "color": "#0080FF",
+    "alias": ["Np"],
+    "pesoAtomico": 237
+  },
+  "plutonio": {
+    "nombre": "Plutonio",
+    "numero": 94,
+    "color": "#006B8F",
+    "alias": ["Pu"],
+    "pesoAtomico": 244
+  },
+  "americio": {
+    "nombre": "Americio",
+    "numero": 95,
+    "color": "#545454",
+    "alias": ["Am"],
+    "pesoAtomico": 243
+  },
+  "curio": {
+    "nombre": "Curio",
+    "numero": 96,
+    "color": "#785CE3",
+    "alias": ["Cm"],
+    "pesoAtomico": 247
+  },
+  "berkelio": {
+    "nombre": "Berkelio",
+    "numero": 97,
+    "color": "#8A4FE3",
+    "alias": ["Bk"],
+    "pesoAtomico": 247
+  },
+  "californio": {
+    "nombre": "Californio",
+    "numero": 98,
+    "color": "#A136D4",
+    "alias": ["Cf"],
+    "pesoAtomico": 251
+  },
+  "einstenio": {
+    "nombre": "Einstenio",
+    "numero": 99,
+    "color": "#B31FD4",
+    "alias": ["Es"],
+    "pesoAtomico": 252
+  },
+  "fermio": {
+    "nombre": "Fermio",
+    "numero": 100,
+    "color": "#B31FBA",
+    "alias": ["Fm"],
+    "pesoAtomico": 257
+  },
+  "mendelevio": {
+    "nombre": "Mendelevio",
+    "numero": 101,
+    "color": "#B30DA6",
+    "alias": ["Md"],
+    "pesoAtomico": 258
+  },
+  "nobelio": {
+    "nombre": "Nobelio",
+    "numero": 102,
+    "color": "#BD0D87",
+    "alias": ["No"],
+    "pesoAtomico": 259
+  },
+  "laurencio": {
+    "nombre": "Laurencio",
+    "numero": 103,
+    "color": "#C70066",
+    "alias": ["Lr"],
+    "pesoAtomico": 262
+  },
+  "rutherfordio": {
+    "nombre": "Rutherfordio",
+    "numero": 104,
+    "color": "#CC0052",
+    "alias": ["Rf"],
+    "pesoAtomico": 267
+  },
+  "dubnio": {
+    "nombre": "Dubnio",
+    "numero": 105,
+    "color": "#D6004D",
+    "alias": ["Db"],
+    "pesoAtomico": 270
+  },
+  "seaborgio": {
+    "nombre": "Seaborgio",
+    "numero": 106,
+    "color": "#E30038",
+    "alias": ["Sg"],
+    "pesoAtomico": 271
+  },
+  "bohrio": {
+    "nombre": "Bohrio",
+    "numero": 107,
+    "color": "#E6002E",
+    "alias": ["Bh"],
+    "pesoAtomico": 270
+  },
+  "hassio": {
+    "nombre": "Hassio",
+    "numero": 108,
+    "color": "#EB0026",
+    "alias": ["Hs"],
+    "pesoAtomico": 277
+  },
+  "meitnerio": {
+    "nombre": "Meitnerio",
+    "numero": 109,
+    "color": "#EB0026",
+    "alias": ["Mt"],
+    "pesoAtomico": 276
+  },
+  "darmstatio": {
+    "nombre": "Darmstatio",
+    "numero": 110,
+    "color": "#EB0026",
+    "alias": ["Ds"],
+    "pesoAtomico": 281
+  },
+  "roentgenio": {
+    "nombre": "Roentgenio",
+    "numero": 111,
+    "color": "#EB0026",
+    "alias": ["Rg"],
+    "pesoAtomico": 280
+  },
+  "copernicio": {
+    "nombre": "Copernicio",
+    "numero": 112,
+    "color": "#EB0026",
+    "alias": ["Cn"],
+    "pesoAtomico": 285
+  },
+  "nihonio": {
+    "nombre": "Nihonio",
+    "numero": 113,
+    "color": "#EB0026",
+    "alias": ["Nh"],
+    "pesoAtomico": 284
+  },
+  "flerovio": {
+    "nombre": "Flerovio",
+    "numero": 114,
+    "color": "#EB0026",
+    "alias": ["Fl"],
+    "pesoAtomico": 289
+  },
+  "moscovio": {
+    "nombre": "Moscovio",
+    "numero": 115,
+    "color": "#EB0026",
+    "alias": ["Mc"],
+    "pesoAtomico": 288
+  },
+  "livermorio": {
+    "nombre": "Livermorio",
+    "numero": 116,
+    "color": "#EB0026",
+    "alias": ["Lv"],
+    "pesoAtomico": 293
+  },
+  "teneso": {
+    "nombre": "Teneso",
+    "numero": 117,
+    "color": "#EB0026",
+    "alias": ["Ts"],
+    "pesoAtomico": 294
+  },
+  "oganesson": {
+    "nombre": "Oganesson",
+    "numero": 118,
+    "color": "#EB0026",
+    "alias": ["Og"],
+    "pesoAtomico": 294
+  }
+}

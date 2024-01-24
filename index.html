@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/index.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="" class="searchAtom">
+      <input
+        type="text"
+        class="searchAtomInput"
+        placeholder="Busca un elemento."
+      />
+      <div class="autoSuggest hidden"></div>
+      <button class="searchAtomButton">
+        <i class="fa-solid fa-magnifying-glass"></i>
+      </button>
+    </form>
+
+    <img class="atomImg" />
+
+    <input type="range" id="slider" name="slider" min="1" max="118" value="1" />
+
+    <div class="leyenda">
+      <p>1</p>
+      <p>Número de protones</p>
+      <p>118</p>
+    </div>
+
+    <div class="atomProperties">
+      <p class="alias"></p>
+      <p class="number"></p>
+      <p class="numberIsotops"></p>
+      <p class="atomName"></p>
+      <p class="atomicWeight"></p>
+    </div>
+
+    <p class="author">Samuel Pedrera 2024</p>
+
+    <script src="./lib/autosuggest.js"></script>
+    <script src="./main.js"></script>
+    <script
+      src="https://kit.fontawesome.com/d96dbf832c.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

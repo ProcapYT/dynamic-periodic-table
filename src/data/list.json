@@ -1,0 +1,592 @@
+{
+  "hidrogeno": {
+    "protones": 1,
+    "neutrones": 0,
+    "electrones": 1
+  },
+  "helio": {
+    "protones": 2,
+    "neutrones": 2,
+    "electrones": 2
+  },
+  "litio": {
+    "protones": 3,
+    "neutrones": 4,
+    "electrones": 3
+  },
+  "berilio": {
+    "protones": 4,
+    "neutrones": 5,
+    "electrones": 4
+  },
+  "boro": {
+    "protones": 5,
+    "neutrones": 6,
+    "electrones": 5
+  },
+  "carbono": {
+    "protones": 6,
+    "neutrones": 6,
+    "electrones": 6
+  },
+  "nitrogeno": {
+    "protones": 7,
+    "neutrones": 7,
+    "electrones": 7
+  },
+  "oxigeno": {
+    "protones": 8,
+    "neutrones": 8,
+    "electrones": 8
+  },
+  "fluor": {
+    "protones": 9,
+    "neutrones": 10,
+    "electrones": 9
+  },
+  "neon": {
+    "protones": 10,
+    "neutrones": 10,
+    "electrones": 10
+  },
+  "sodio": {
+    "protones": 11,
+    "neutrones": 12,
+    "electrones": 11
+  },
+  "magnesio": {
+    "protones": 12,
+    "neutrones": 12,
+    "electrones": 12
+  },
+  "aluminio": {
+    "protones": 13,
+    "neutrones": 14,
+    "electrones": 13
+  },
+  "silicio": {
+    "protones": 14,
+    "neutrones": 14,
+    "electrones": 14
+  },
+  "fosforo": {
+    "protones": 15,
+    "neutrones": 16,
+    "electrones": 15
+  },
+  "azufre": {
+    "protones": 16,
+    "neutrones": 16,
+    "electrones": 16
+  },
+  "cloro": {
+    "protones": 17,
+    "neutrones": 18,
+    "electrones": 17
+  },
+  "argon": {
+    "protones": 18,
+    "neutrones": 22,
+    "electrones": 18
+  },
+  "potasio": {
+    "protones": 19,
+    "neutrones": 20,
+    "electrones": 19
+  },
+  "calcio": {
+    "protones": 20,
+    "neutrones": 20,
+    "electrones": 20
+  },
+  "escandio": {
+    "protones": 21,
+    "neutrones": 24,
+    "electrones": 21
+  },
+  "titanio": {
+    "protones": 22,
+    "neutrones": 26,
+    "electrones": 22
+  },
+  "vanadio": {
+    "protones": 23,
+    "neutrones": 28,
+    "electrones": 23
+  },
+  "cromo": {
+    "protones": 24,
+    "neutrones": 28,
+    "electrones": 24
+  },
+  "manganeso": {
+    "protones": 25,
+    "neutrones": 30,
+    "electrones": 25
+  },
+  "hierro": {
+    "protones": 26,
+    "neutrones": 30,
+    "electrones": 26
+  },
+  "cobalto": {
+    "protones": 27,
+    "neutrones": 32,
+    "electrones": 27
+  },
+  "niquel": {
+    "protones": 28,
+    "neutrones": 31,
+    "electrones": 28
+  },
+  "cobre": {
+    "protones": 29,
+    "neutrones": 35,
+    "electrones": 29
+  },
+  "zinc": {
+    "protones": 30,
+    "neutrones": 35,
+    "electrones": 30
+  },
+  "galio": {
+    "protones": 31,
+    "neutrones": 39,
+    "electrones": 31
+  },
+  "germanio": {
+    "protones": 32,
+    "neutrones": 41,
+    "electrones": 32
+  },
+  "arsenico": {
+    "protones": 33,
+    "neutrones": 42,
+    "electrones": 33
+  },
+  "selenio": {
+    "protones": 34,
+    "neutrones": 45,
+    "electrones": 34
+  },
+  "bromo": {
+    "protones": 35,
+    "neutrones": 45,
+    "electrones": 35
+  },
+  "kripton": {
+    "protones": 36,
+    "neutrones": 48,
+    "electrones": 36
+  },
+  "rubidio": {
+    "protones": 37,
+    "neutrones": 48,
+    "electrones": 37
+  },
+  "estroncio": {
+    "protones": 38,
+    "neutrones": 50,
+    "electrones": 38
+  },
+  "itrio": {
+    "protones": 39,
+    "neutrones": 50,
+    "electrones": 39
+  },
+  "circonio": {
+    "protones": 40,
+    "neutrones": 51,
+    "electrones": 40
+  },
+  "niobio": {
+    "protones": 41,
+    "neutrones": 52,
+    "electrones": 41
+  },
+  "molibdeno": {
+    "protones": 42,
+    "neutrones": 54,
+    "electrones": 42
+  },
+  "tecnecio": {
+    "protones": 43,
+    "neutrones": 55,
+    "electrones": 43
+  },
+  "rutenio": {
+    "protones": 44,
+    "neutrones": 57,
+    "electrones": 44
+  },
+  "rodio": {
+    "protones": 45,
+    "neutrones": 58,
+    "electrones": 45
+  },
+  "paladio": {
+    "protones": 46,
+    "neutrones": 60,
+    "electrones": 46
+  },
+  "plata": {
+    "protones": 47,
+    "neutrones": 61,
+    "electrones": 47
+  },
+  "cadmio": {
+    "protones": 48,
+    "neutrones": 64,
+    "electrones": 48
+  },
+  "indio": {
+    "protones": 49,
+    "neutrones": 66,
+    "electrones": 49
+  },
+  "estaño": {
+    "protones": 50,
+    "neutrones": 69,
+    "electrones": 50
+  },
+  "antimonio": {
+    "protones": 51,
+    "neutrones": 71,
+    "electrones": 51
+  },
+  "telurio": {
+    "protones": 52,
+    "neutrones": 76,
+    "electrones": 52
+  },
+  "yodo": {
+    "protones": 53,
+    "neutrones": 74,
+    "electrones": 53
+  },
+  "xenon": {
+    "protones": 54,
+    "neutrones": 77,
+    "electrones": 54
+  },
+  "cesio": {
+    "protones": 55,
+    "neutrones": 78,
+    "electrones": 55
+  },
+  "bario": {
+    "protones": 56,
+    "neutrones": 81,
+    "electrones": 56
+  },
+  "lantano": {
+    "protones": 57,
+    "neutrones": 82,
+    "electrones": 57
+  },
+  "cerio": {
+    "protones": 58,
+    "neutrones": 82,
+    "electrones": 58
+  },
+  "praseodimio": {
+    "protones": 59,
+    "neutrones": 83,
+    "electrones": 59
+  },
+  "neodimio": {
+    "protones": 60,
+    "neutrones": 84,
+    "electrones": 60
+  },
+  "prometio": {
+    "protones": 61,
+    "neutrones": 84,
+    "electrones": 61
+  },
+  "samario": {
+    "protones": 62,
+    "neutrones": 88,
+    "electrones": 62
+  },
+  "europio": {
+    "protones": 63,
+    "neutrones": 89,
+    "electrones": 63
+  },
+  "gadolinio": {
+    "protones": 64,
+    "neutrones": 93,
+    "electrones": 64
+  },
+  "terbio": {
+    "protones": 65,
+    "neutrones": 94,
+    "electrones": 65
+  },
+  "disprosio": {
+    "protones": 66,
+    "neutrones": 97,
+    "electrones": 66
+  },
+  "holmio": {
+    "protones": 67,
+    "neutrones": 98,
+    "electrones": 67
+  },
+  "erbio": {
+    "protones": 68,
+    "neutrones": 99,
+    "electrones": 68
+  },
+  "tulio": {
+    "protones": 69,
+    "neutrones": 100,
+    "electrones": 69
+  },
+  "iterbio": {
+    "protones": 70,
+    "neutrones": 103,
+    "electrones": 70
+  },
+  "lutecio": {
+    "protones": 71,
+    "neutrones": 104,
+    "electrones": 71
+  },
+  "hafnio": {
+    "protones": 72,
+    "neutrones": 106,
+    "electrones": 72
+  },
+  "tantalo": {
+    "protones": 73,
+    "neutrones": 108,
+    "electrones": 73
+  },
+  "wolframio": {
+    "protones": 74,
+    "neutrones": 150,
+    "electrones": 74
+  },
+  "renio": {
+    "protones": 75,
+    "neutrones": 111,
+    "electrones": 75
+  },
+  "osmio": {
+    "protones": 76,
+    "neutrones": 114,
+    "electrones": 76
+  },
+  "iridio": {
+    "protones": 77,
+    "neutrones": 115,
+    "electrones": 77
+  },
+  "platino": {
+    "protones": 78,
+    "neutrones": 117,
+    "electrones": 78
+  },
+  "oro": {
+    "protones": 79,
+    "neutrones": 118,
+    "electrones": 79
+  },
+  "mercurio": {
+    "protones": 80,
+    "neutrones": 121,
+    "electrones": 80
+  },
+  "talio": {
+    "protones": 81,
+    "neutrones": 123,
+    "electrones": 81
+  },
+  "plomo": {
+    "protones": 82,
+    "neutrones": 125,
+    "electrones": 82
+  },
+  "bismuto": {
+    "protones": 83,
+    "neutrones": 126,
+    "electrones": 83
+  },
+  "polonio": {
+    "protones": 84,
+    "neutrones": 125,
+    "electrones": 84
+  },
+  "astato": {
+    "protones": 85,
+    "neutrones": 125,
+    "electrones": 85
+  },
+  "radon": {
+    "protones": 86,
+    "neutrones": 136,
+    "electrones": 86
+  },
+  "francio": {
+    "protones": 87,
+    "neutrones": 136,
+    "electrones": 87
+  },
+  "radio": {
+    "protones": 88,
+    "neutrones": 138,
+    "electrones": 88
+  },
+  "actinio": {
+    "protones": 89,
+    "neutrones": 138,
+    "electrones": 89
+  },
+  "torio": {
+    "protones": 90,
+    "neutrones": 142,
+    "electrones": 90
+  },
+  "protactinio": {
+    "protones": 91,
+    "neutrones": 140,
+    "electrones": 91
+  },
+  "uranio": {
+    "protones": 92,
+    "neutrones": 146,
+    "electrones": 92
+  },
+  "neptunio": {
+    "protones": 93,
+    "neutrones": 144,
+    "electrones": 93
+  },
+  "plutonio": {
+    "protones": 94,
+    "neutrones": 150,
+    "electrones": 94
+  },
+  "americio": {
+    "protones": 95,
+    "neutrones": 148,
+    "electrones": 95
+  },
+  "curio": {
+    "protones": 96,
+    "neutrones": 151,
+    "electrones": 96
+  },
+  "berkelio": {
+    "protones": 97,
+    "neutrones": 150,
+    "electrones": 97
+  },
+  "californio": {
+    "protones": 98,
+    "neutrones": 153,
+    "electrones": 98
+  },
+  "einstenio": {
+    "protones": 99,
+    "neutrones": 153,
+    "electrones": 99
+  },
+  "fermio": {
+    "protones": 100,
+    "neutrones": 157,
+    "electrones": 100
+  },
+  "mendelevio": {
+    "protones": 101,
+    "neutrones": 157,
+    "electrones": 101
+  },
+  "nobelio": {
+    "protones": 102,
+    "neutrones": 157,
+    "electrones": 102
+  },
+  "laurencio": {
+    "protones": 103,
+    "neutrones": 159,
+    "electrones": 103
+  },
+  "rutherfordio": {
+    "protones": 104,
+    "neutrones": 160,
+    "electrones": 104
+  },
+  "dubnio": {
+    "protones": 105,
+    "neutrones": 161,
+    "electrones": 105
+  },
+  "seaborgio": {
+    "protones": 106,
+    "neutrones": 163,
+    "electrones": 106
+  },
+  "bohrio": {
+    "protones": 107,
+    "neutrones": 164,
+    "electrones": 107
+  },
+  "hassio": {
+    "protones": 108,
+    "neutrones": 165,
+    "electrones": 108
+  },
+  "meitnerio": {
+    "protones": 109,
+    "neutrones": 166,
+    "electrones": 109
+  },
+  "darmstadtio": {
+    "protones": 110,
+    "neutrones": 171,
+    "electrones": 110
+  },
+  "roentgenio": {
+    "protones": 111,
+    "neutrones": 171,
+    "electrones": 111
+  },
+  "copernicio": {
+    "protones": 112,
+    "neutrones": 173,
+    "electrones": 112
+  },
+  "nihonio": {
+    "protones": 113,
+    "neutrones": 173,
+    "electrones": 113
+  },
+  "flerovio": {
+    "protones": 114,
+    "neutrones": 175,
+    "electrones": 114
+  },
+  "moscovio": {
+    "protones": 115,
+    "neutrones": 175,
+    "electrones": 115
+  },
+  "livermorio": {
+    "protones": 116,
+    "neutrones": 177,
+    "electrones": 116
+  },
+  "teneso": {
+    "protones": 117,
+    "neutrones": 177,
+    "electrones": 117
+  },
+  "oganesson": {
+    "protones": 118,
+    "neutrones": 176,
+    "electrones": 118
+  }
+}
