@@ -69,7 +69,8 @@ async function colocarElectronesEnOrbita(
   const maxElectrones = await calcularMaxElectronesEnCapa(capa, protones);
   const anguloEntreElectrones = (2 * Math.PI) / maxElectrones;
 
-  ctx.fillStyle = "#50C878";
+  // ctx.fillStyle = "#50C878";
+  ctx.fillStyle = "#3498db";
 
   for (let i = 0; i < totalElectrones; i++) {
     if (i < maxElectrones) {
@@ -104,7 +105,7 @@ function distribuirParticulas(ctx, x, y, protones, neutrones) {
         ctx,
         x,
         y,
-        "gray",
+        "green",
         5,
         Math.ceil(Math.pow(protones + neutrones, 1 / 1.47))
       );
